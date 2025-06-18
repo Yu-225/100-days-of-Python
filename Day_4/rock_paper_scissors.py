@@ -3,7 +3,7 @@
 import random
 
 # Rock
-rock = """
+ROCK = """
     _______
 ---'   ____)
       (_____)
@@ -13,7 +13,7 @@ rock = """
 """
 
 # Paper
-paper = """
+PAPER = """
      _______
 ---'    ____)____
            ______)
@@ -23,7 +23,7 @@ paper = """
 """
 
 # Scissors
-scissors = """
+SCISSORS = """
     _______
 ---'   ____)____
           ______)
@@ -31,34 +31,32 @@ scissors = """
       (____)
 ---.__(___)
 """
-game_images = [rock, paper, scissors]
+game_images = [ROCK, PAPER, SCISSORS]
 
 
-print('What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors')
+print("What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors")
 player_choice = int(input())
 computer_choice = random.randint(0, 2)
 
 if player_choice >= 3 or player_choice < 0:
-    print('You typed an invalid number, you lose!')
+    print("You typed an invalid number, you lose!")
 
 else:
     print(game_images[player_choice])
-    print('Computer chose:')
+    print("Computer chose:")
     print(game_images[computer_choice])
 
-
     if player_choice == 0 and computer_choice == 2:
-        print('You win!')
+        print("You win!")
 
     elif player_choice == 2 and computer_choice == 0:
-        print('You lose!')
+        print("You lose!")
 
     elif computer_choice > player_choice:
-        print('You lose!')
+        print("You lose!")
 
     elif player_choice > computer_choice:
-        print('You win!')
-
+        print("You win!")
 
     elif player_choice == computer_choice:
-        print('It\'s a draw!')
+        print("It's a draw!")

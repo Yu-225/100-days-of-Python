@@ -16,3 +16,5 @@ Table of contents:
 - Day 3: <a href="./Day_3/treasure_island.py">Treasure island</a>
 - Day 4: <a href="./Day_4/rock_paper_scissors.py">Rock paper scissors</a>
 - Day 5: <a href="./Day_5/password_generator.py">Password generator</a>
+- Day 6: <a href="./Day_6/escaping_the_maze.py">Escaping the maze</a>
+<!-- - Day 7: <a href="./Day_7/hangman.py">Hangman</a> -->

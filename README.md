@@ -10,11 +10,33 @@
 <br>
 <br>
 
-Table of contents:
-- Day 1: <a href="./Day_1/band_name_generator.py">Band name generator</a>
-- Day 2: <a href="./Day_2/tip_calculator.py">Tip calculator</a>
-- Day 3: <a href="./Day_3/treasure_island.py">Treasure island</a>
-- Day 4: <a href="./Day_4/rock_paper_scissors.py">Rock paper scissors</a>
-- Day 5: <a href="./Day_5/password_generator.py">Password generator</a>
-- Day 6: <a href="./Day_6/escaping_the_maze.py">Escaping the maze</a>
-- Day 7: <a href="./Day_7/hangman.py">Hangman</a>
+### Table of contents:
+
+<details>
+<summary>Beginner</summary>
+
+- Day 1: Variables.
+<br><a href="./Day_1/band_name_generator.py">Band name generator</a>
+
+- Day 2: Data Types.
+<br><a href="./Day_2/tip_calculator.py">Tip calculator</a>
+
+- Day 3: Logical Operators.
+<br><a href="./Day_3/treasure_island.py">Treasure island</a>
+
+- Day 4: Lists. Randomization.
+<br><a href="./Day_4/rock_paper_scissors.py">Rock paper scissors</a>
+
+- Day 5: Loops.
+<br><a href="./Day_5/password_generator.py">Password generator</a>
+
+- Day 6: Maze.
+<br><a href="./Day_6/escaping_the_maze.py">Escaping the maze</a>
+
+- Day 7: Hangman game.
+<br><a href="./Day_7/hangman.py">Hangman</a>
+
+- Day 8: Functions and parameters.
+<br><a href="./Day_8/ceaser_cipher.py">Ceaser cipher.</a>
+</details>
+

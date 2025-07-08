@@ -38,5 +38,8 @@
 
 - Day 8: Functions and parameters.
 <br><a href="./Day_8/ceaser_cipher.py">Ceaser cipher.</a>
+
+- Day 9: Dictionaries and Nesting.
+<br><a href="./Day_9/secret_auction.py">Secret auction.</a>
 </details>
 

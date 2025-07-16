@@ -1,6 +1,6 @@
 """Calculator program."""
 
-from art import LOGO
+from art import BANNER
 
 
 def add(n1, n2):
@@ -34,7 +34,7 @@ operations = {
 def calculator():
     """Calculator program."""
 
-    print(LOGO)
+    print(BANNER)
 
     should_accumulate = True
     num1 = float(input("What's the first number?: "))

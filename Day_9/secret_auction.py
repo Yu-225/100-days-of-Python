@@ -2,9 +2,9 @@
 
 import os
 
-import art
+from art import BANNER
 
-print(art.LOGO)
+print(BANNER)
 
 
 def clear():

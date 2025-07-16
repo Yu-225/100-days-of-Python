@@ -1,6 +1,6 @@
 """Logo for the secret auction program."""
 
-LOGO = r'''
+BANNER = r'''
         ___________
         \         /
         )_______(

@@ -1,6 +1,6 @@
 """Cooler calculator program."""
 
-from art import LOGO
+from art import BANNER
 
 from colorama import Fore
 
@@ -10,7 +10,7 @@ while RUN:
     print("\n" * 20)
     print(
         f"""
-    {Fore.YELLOW}{LOGO}
+    {Fore.YELLOW}{BANNER}
     {Fore.YELLOW}Chose an operation:
 
     {Fore.GREEN}[{Fore.YELLOW}1{Fore.GREEN}] Add

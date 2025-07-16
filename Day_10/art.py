@@ -1,6 +1,6 @@
 """Logo for calculators"""
 
-LOGO = r"""
+BANNER = r"""
  _____________________
 |  _________________  |
 | | JoJo         0. | |

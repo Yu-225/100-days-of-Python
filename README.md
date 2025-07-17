@@ -41,5 +41,10 @@
 
 - Day 9: Dictionaries and Nesting.
 <br><a href="./Day_9/secret_auction.py">Secret auction.</a>
+
+- Day 10: Functions with outputs.
+<br><a href="./Day_10/calculator_v1.py">Calculator v1.</a>
+<br><a href="./Day_10/calculator_v2.py">Calculator v2.</a>
+<br><a href="./Day_10/calculator_v3.py">Calculator v3.</a>
 </details>
 

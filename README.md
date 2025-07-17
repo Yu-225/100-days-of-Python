@@ -46,5 +46,8 @@
 <br><a href="./Day_10/calculator_v1.py">Calculator v1.</a>
 <br><a href="./Day_10/calculator_v2.py">Calculator v2.</a>
 <br><a href="./Day_10/calculator_v3.py">Calculator v3.</a>
+
+- Day 11: Blackjack.
+<br><a href="./Day_11/blackjack.py">Blackjack.</a>
 </details>
 

@@ -49,5 +49,8 @@
 
 - Day 11: Blackjack.
 <br><a href="./Day_11/blackjack.py">Blackjack.</a>
+
+- Day 12: Scope...
+<br><a href="./Day_11/blackjack.py">Guess the number.</a>
 </details>
 

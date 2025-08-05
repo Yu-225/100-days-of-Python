@@ -51,6 +51,9 @@
 <br><a href="./Day_11/blackjack.py">Blackjack.</a>
 
 - Day 12: Scope...
-<br><a href="./Day_11/blackjack.py">Guess the number.</a>
+<br><a href="./Day_12/guess_number_game.py">Guess the number.</a>
+
+- Day 13: Debugging.
+<br><a href="./Day_13/debugging.py">Debugging.</a>
 </details>
 

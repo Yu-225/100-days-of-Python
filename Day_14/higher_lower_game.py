@@ -4,7 +4,7 @@ import os
 import sys
 import random
 
-from art import LOGO, VS
+from art import LOGO, VS  # pylint: disable=no-name-in-module
 import game_data
 
 

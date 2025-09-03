@@ -57,3 +57,12 @@
 <br><a href="./Day_13/debugging.py">Debugging.</a>
 </details>
 
+<details>
+<summary>Intermediate</summary>
+- Day 14: Higher lower game.
+<br><a href="./Day_14/higher_lower_game.py">Higher lower game.</a>
+
+- Day 15: Coffee machine.
+<br><a href="./Day_15/coffe_machine.py">Coffee machine.</a>
+
+</details>

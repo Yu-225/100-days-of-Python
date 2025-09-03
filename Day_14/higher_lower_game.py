@@ -4,7 +4,7 @@ import os
 import sys
 import random
 
-import art
+from art import LOGO, VS
 import game_data
 
 
@@ -20,7 +20,7 @@ def main(current_score: int = 0) -> None:
     clear_screen()
 
     # print logo
-    print(art.LOGO)
+    print(LOGO)
 
     print(f" score: {current_score} ".center(40, "-"), end="\n")
 
@@ -38,7 +38,7 @@ def main(current_score: int = 0) -> None:
     )
 
     # print vs
-    print(art.VS)
+    print(VS)
 
     # Against the chosen item, choose another random item from game_data
     compare_b = random.choice(game_data.data)
